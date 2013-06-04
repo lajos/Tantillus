@@ -1,3 +1,13 @@
+My Tantillus build, with some changes and experiments:
+
+  - Oilite bearings (replacing lm8uus and printed bushings)
+  - all 5/16" rods
+  - panel joints changed to 0.25" US stock (I used MDF)
+  - split panels (the panels were just a bit too large for my CNC machine, so I added a joint in the middle)
+  - corners for 0.25" US stock
+  - corners with no tabs
+  - offset spur gears (to reduce noise)
+
 Tantillus
 
 Introducing Tantillus. The portable self replicating mini printer.
