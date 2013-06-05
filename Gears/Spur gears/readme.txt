@@ -1,6 +1,8 @@
 I wanted quieter gears, so made these spur gears out of MDF on a CNC machine.
 Each gear is made up of two pieces, slightly offset so they act similar to the herring bone gears.
 
+The sets have two of the gears flipped. This is useful if cutting on CNC machine where the stock first has to be planed to the desired width.
+
 To make:
   - cut 4 pieces of upper and 4 pieces of lower gear halves
   - the absolute maximum width of the stock is 4mm with the official Tantillus rod lengths
