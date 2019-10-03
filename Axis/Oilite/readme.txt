@@ -5,7 +5,7 @@ Benefits:
   - zero noise
   - no play
   - all rods are the same size, 5/16"
-  - oilites are easy to find (probably even your hardware store has them) 
+  - oilites are easy to find (probably even your hardware store has them)
 
 Cons:
   - none so far
@@ -15,7 +15,7 @@ All rods are 5/16". No 8mm rods used.
 Bearings 5/26" ID x 1/2" OD:
   - x/y ends: 1", 4 pcs (mcmaster 6391K443)
   - carriage: 1" or 1.25", 4 pcs (mcmaster 6391K443 or 6391K444)
-  - cable z: 0.5", 4 pcs (mcmaster 6391K405) 
+  - cable z: 0.5", 4 pcs (mcmaster 6391K405)
 
 
 Notes:
@@ -29,6 +29,10 @@ Notes:
   - I currently have 1" oilites in the carriage.
 
 The oilites need a short break in period so they get their juices going. When first assembled the carriage should slide free and without binding, but after an hour or two of printing things will get even silkier smoother.
+
+The corners fit US 1/4" stock (somewhere around 6.5), for example MDF.
+
+My panels were routed on a CNC machine and I could never get the tabs to work. If you use the set of corners without tabs, make sure your case is glued.
 
 
 Future:
